@@ -1,0 +1,19 @@
+img{
+
+	border-radius: 100%;
+	max-width: 200px;
+	border:1px solid black;
+	background-color: blue;
+}
+
+
+.row{
+
+	background-color: cadetblue;
+
+}
+
+body{
+
+	background-color: crimson;
+}
